@@ -22,7 +22,7 @@
 ### 1. ดาวน์โหลดหรือโคลนโปรเจกต์
 
 ```bash
-git clone 
+git clone https://github.com/Supawan-Pensri/income-expense-tracker.git
 cd income-expense-tracker
 
 
